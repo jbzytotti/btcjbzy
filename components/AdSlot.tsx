@@ -8,12 +8,7 @@ import { useEffect, useRef } from 'react';
 // =====================================================
 export const CUSTOM_AD_CODES: Record<string, string> = {
   "ad-header-banner": `
-    <center><div>
-<div style="width:970px; margin:0 auto; text-align:center;">
-<iframe src="//ads.coinserom.com/pub?adsunit=383939&size=970x250" style="width:970px;height:250px;border:0px;padding:0;background-color: transparent;overflow: auto;">
-</iframe>
-<a style="display: block;text-align:right;font-size:12px;width:970px;" href="https://coinserom.com/?affiliate=3531313138" target="_blank">Advertise here</a>
-</div>
+    <center><meta name="profiton-domain-verification" content="fe855b3578dab1ab12a947c131e812ce0cb484259665d92437980a896ba88e5d" /></div>
 
 <br>
 </div></center>
